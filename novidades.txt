@@ -1,6 +1,12 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d88306fd4abd4b09ce1e39f519869185adc1517259cbc95a6e9fa1193f8fc57
+size 335
+=======
 Bem-vindo ao servidor Nostalgic!
 " - [05/07/2025] Atualizacao geral do servidor, launcher e site." 
 " - [01/07/2025] Criacao da versao 1.0.0 do servidor!" 
 " - [25/06/2025] Criacao de 5 Plugins exclusivos do servidor." 
 " - [22/06/2025] Criacao da textura exclusiva do servidor." 
 " - [20/06/2025] Criacao do NostalgicLauncher."
+>>>>>>> 46bbf5962fd46691f0fc14f6a6b6ea45099f62a2
