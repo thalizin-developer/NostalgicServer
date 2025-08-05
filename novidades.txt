@@ -4,4 +4,3 @@ Bem-vindo ao servidor Nostalgic!
 " - [25/06/2025] Criacao de 5 Plugins exclusivos do servidor." 
 " - [22/06/2025] Criacao da textura exclusiva do servidor." 
 " - [20/06/2025] Criacao do NostalgicLauncher."
->>>>>>> 46bbf5962fd46691f0fc14f6a6b6ea45099f62a2
