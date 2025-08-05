@@ -1,4 +1,4 @@
-Bem-vindo ao servidor Nostalgic!\n\n
+Bem-vindo ao servidor Nostalgic!
 " - [05/07/2025] Atualizacao geral do servidor, launcher e site." 
 " - [01/07/2025] Criacao da versao 1.0.0 do servidor!" 
 " - [25/06/2025] Criacao de 5 Plugins exclusivos do servidor." 
