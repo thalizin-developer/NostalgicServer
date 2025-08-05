@@ -1,0 +1,21 @@
+           JTextArea novidadesArea = new JTextArea();
+            novidadesArea.setEditable(false);
+            novidadesArea.setOpaque(false);
+            novidadesArea.setForeground(Color.ORANGE);
+            novidadesArea.setFont(minecraftFont);
+            novidadesArea.setText(
+                    "Bem-vindo ao servidor Nostalgic!\n\n" +
+                            "- [05/07/2025] Atualizacao geral do servidor, launcher e site.\n\n" +
+                            "- [01/07/2025] Criacao da versao 1.0.0 do servidor!\n\n" +
+                            "- [25/06/2025] Criacao de 5 Plugins exclusivos do servidor.\n\n" +
+                            "- [22/06/2025] Criacao da textura exclusiva do servidor.\n\n" +
+                            "- [20/06/2025] Criacao do NostalgicLauncher.\n\n"
+            );
+            novidadesArea.setBorder(new EmptyBorder(10, 10, 10, 10));
+
+            JScrollPane scroll = new JScrollPane(novidadesArea);
+            scroll.setOpaque(false);
+            scroll.getViewport().setOpaque(false);
+            scroll.setBorder(null);
+
+            backgroundPanel.add(scroll, BorderLayout.CENTER);
